@@ -1,0 +1,26 @@
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    font-size: 17px;
+}
+.box1{
+    display: flex;
+    gap: 20px;
+}
+.logo2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.logo2 button{
+    width: 142px;
+    height: 54px;
+    background-color: #FF9C08;
+    border-radius: 10px;
+    border:1px solid  #FF9C08;
+}
+.con1{
+    display: flex;
+    justify-content: space-around;
+}
