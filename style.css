@@ -793,3 +793,8 @@
     background-color: #2b2f3a;
     border-radius: 8px;
 }
+
+.box0{
+    max-width: 1440px;
+    margin: auto;
+}
