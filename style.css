@@ -389,8 +389,8 @@
 /* con7 */
 .con7{
     margin-top: 650px;
-    padding: 80px 130px;
-    font-family: "DM Sans", Arial, sans-serif;
+    padding: 200px 130px;
+    
 }
 
 .top7{
@@ -412,7 +412,7 @@
     font-weight: 700;
     color: #1f2230;
     line-height: 1.4;
-    font-family: "Roboto", Arial, sans-serif;
+    
 }
 
 .btn7{
@@ -471,10 +471,12 @@
 
 /* con8 */
 .con8{
+    background-color: #FEF9F2;
+    
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 80px 130px;
+    padding: 200px 130px;
     gap: 50px;
 }
 
@@ -535,7 +537,7 @@
     font-weight: 700;
     color: #1f2230;
     line-height: 1.5;
-    font-family: "Roboto", Arial, sans-serif;
+    
 }
 
 .t8{
@@ -568,4 +570,112 @@
     border-radius: 6px;
     font-size: 17px;
     font-weight: 500;
+}
+
+/* con9 */
+.con9{
+    padding: 200px 130px;
+   
+}
+
+.head9{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.small9{
+    font-size: 16px;
+    color: #e8a22d;
+    letter-spacing: 1px;
+}
+
+.head9 h2{
+    margin-top: 15px;
+    font-size: 44px;
+    font-weight: 700;
+    color: #1f2230;
+    
+}
+
+.list9{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.n9{
+    
+    position: relative;
+    width: 560px;
+    height: 560px;
+}
+
+.n9 img{
+    display: block;
+    border-radius: 10px;
+}
+
+.card9{
+    position: absolute;
+    left: 30px;
+    bottom: 0;
+    width: 450px;
+    height: 200px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+}
+
+.meta9{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.meta9 p{
+    margin-top: 20px;
+    font-size: 15px;
+    color: #666;
+}
+
+.card9 h3{
+    margin-top: 25px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #1f2230;
+    
+    
+}
+
+.r9{
+    margin-top: 25px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #1f2230;
+}
+
+.btns9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.b9_1{
+    padding: 22px 35px;
+    background-color: #e8a22d;
+    color: #1f2230;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.b9_2{
+    font-size: 16px;
+    font-weight: 700;
+    color: #1f2230;
 }
